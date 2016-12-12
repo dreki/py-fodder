@@ -1,5 +1,5 @@
-import pyskel
+import fodder
 
 
 def test_has_legs():
-    assert not pyskel.has_legs
+    assert not fodder.has_legs
