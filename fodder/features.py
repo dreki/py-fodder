@@ -17,7 +17,7 @@ def listen(event):
         if event not in _listeners:
             _listeners[event] = list()
         _listeners[event].append(method)
-	return method
+        return method
 
     return _listen
 
