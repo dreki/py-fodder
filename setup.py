@@ -8,7 +8,7 @@ with codecs_open('README.rst', encoding='utf-8') as f:
 
 
 setup(name='fodder',
-      version='1.0.1',
+      version='1.0.2',
       description=u"feature-oriented development",
       long_description=long_description,
       classifiers=[],
