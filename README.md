@@ -1,6 +1,6 @@
 I'm proud to say that py-fodder is being supported by BrowserStack!
 
-<img src="http://i.imgur.com/LMRz23i.png" style="height: 1rem;" alt="BrowserStack" />
+<img src="http://i.imgur.com/LMRz23i.png" height="30" alt="BrowserStack" />
 
 fodder
 ======
