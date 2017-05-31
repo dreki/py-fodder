@@ -1,7 +1,6 @@
 I'm proud to say that py-fodder is being supported by BrowserStack!
-![BrowserStack](https://dreki.github.io/master/browserstack-logo.svg)
 
-<img src="https://raw.githubusercontent.com/dreki/dreki.github.io/master/browserstack-logo.svg"/>
+<img src="http://i.imgur.com/LMRz23i.png" style="height: 1rem;" alt="BrowserStack" />
 
 fodder
 ======
